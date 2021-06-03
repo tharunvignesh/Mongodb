@@ -1,2 +1,2 @@
 # Mongodb
-ctrl + L to clear mongo screen 
+# ctrl + L to clear mongo screen 
